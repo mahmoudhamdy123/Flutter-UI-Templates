@@ -15,7 +15,3 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-(https://https://github.com/mahmoudhamdy123/Flutter-UI-Templates/v.mp4)
-![End Banner](https://https://github.com/mahmoudhamdy123/Flutter-UI-Templates/master/img1.png)
-![End Banner](https://https://github.com/mahmoudhamdy123/Flutter-UI-Templates/img2.png)
